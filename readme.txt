@@ -8,4 +8,4 @@ asdfasdfff
 i worte a rucal dimention in d2.py
 i love the software.
 I want to learn it well.
-
+I study it very well.
